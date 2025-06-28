@@ -4,6 +4,7 @@ Awesome Open Source AIOps Tools.
 
 - [Contents](#contents)
 - [Platforms](#platforms)
+- [Gateway](#gateway)
 - [Observability](#observability)
 - [Experts](#experts)
 - [SRE Agent](#sre-agent)
@@ -19,6 +20,10 @@ Awesome Open Source AIOps Tools.
 - [Incident.io](https://incident.io/) [closed-source] - The all-in-one AI platform for on-call, incident response, and status pages—built for fast-moving teams.
 - [Rootly](https://rootly.com/) [closed-source] - Like having your most experienced engineer in every incident.
 
+
+## Gateway
+
+- [LiteLLM](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
 
 ## Observability
 
