@@ -27,6 +27,7 @@ Awesome Open Source AIOps Tools.
 
 ## Observability
 
+- [OneUptime](https://github.com/oneuptime/oneuptime) - The Complete Open-Source Observability Platform.
 - [LangFuse](https://github.com/langfuse/langfuse) - Langfuse is an open source LLM engineering platform. It helps teams collaboratively develop, monitor, evaluate, and debug AI applications. Langfuse can be self-hosted in minutes and is battle-tested.
 - [LogFire](https://pydantic.dev/logfire) - See exactly what your Python apps and LLMs are doing, while you code. Built on open standards (OpenTelemetry), Pydantic Logfire offers native AI integrations—from LLM API calls to agent frameworks. Plus comprehensive observability for any workload, AI or not.
 - [Mezmo](https://www.mezmo.com/) [closed-source] - Mezmo is a log ingestion and aggregation tool that uses ML to correlate and de-duplicate logs. With the explosion in observability data, having a tool that is able to make that data useful and actionable to teams is key.
