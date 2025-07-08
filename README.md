@@ -6,6 +6,7 @@ Awesome Open Source AIOps Tools.
 - [Platforms](#platforms)
 - [Gateway](#gateway)
 - [Observability](#observability)
+- [MCP](#mcp)
 - [Experts](#experts)
 - [SRE Agent](#sre-agent)
 - [CI/CD](#cicd)
@@ -33,7 +34,9 @@ Awesome Open Source AIOps Tools.
 - [Mezmo](https://www.mezmo.com/) [closed-source] - Mezmo is a log ingestion and aggregation tool that uses ML to correlate and de-duplicate logs. With the explosion in observability data, having a tool that is able to make that data useful and actionable to teams is key.
 - [Causely](https://www.causely.io/) [closed-source] - Causely takes a unique approach of using a causal model to attempt to turn observability data and alerts into specific root causes.
 
+## MCP
 
+- [MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases. It enables you to develop tools easier, faster, and more securely by handling the complexities such as connection pooling, authentication, and more.
 
 
 ## Experts
