@@ -41,6 +41,7 @@ Awesome Open Source AIOps Tools.
 
 ## Experts
 
+- [Freelens](https://github.com/freelensapp/freelens) and [Freelens AI](https://github.com/freelensapp/freelens-ai-extension) - Freelens is a free and open-source user interface designed for managing Kubernetes clusters. Freelens AI is an extension for Freelens that brings AI capabilities directly into your workflow.
 - [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - k8sgpt is a tool for scanning your Kubernetes clusters, diagnosing, and triaging issues in simple English.
 
 ## SRE Agent
