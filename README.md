@@ -21,7 +21,7 @@ Awesome Open Source AIOps Tools.
 - [FireHydrant](https://firehydrant.com/) [closed-source] - FireHydrant is a full-cycle incident management platform that makes your incidents less painful. From automating toil to efficiently assembling the right teams, standardizing communications, facilitating better retrospectives, and gathering metrics, FireHydrant helps organizations improve their reliability and resilience.
 - [Incident.io](https://incident.io/) [closed-source] - The all-in-one AI platform for on-call, incident response, and status pages—built for fast-moving teams.
 - [Rootly](https://rootly.com/) [closed-source] - Like having your most experienced engineer in every incident.
-
+- [Task Master](https://github.com/eyaltoledano/claude-task-master) - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 ## Protocol
 
  - [A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
