@@ -22,11 +22,13 @@ Awesome Open Source AIOps Tools.
 - [Incident.io](https://incident.io/) [closed-source] - The all-in-one AI platform for on-call, incident response, and status pages—built for fast-moving teams.
 - [Rootly](https://rootly.com/) [closed-source] - Like having your most experienced engineer in every incident.
 - [Task Master](https://github.com/eyaltoledano/claude-task-master) - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
+
 ## Protocol
 
  - [A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
  - [MCP](https://modelcontextprotocol.io/introduction) - MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
  - [AG-UI](https://github.com/ag-ui-protocol/ag-ui) - AG-UI is a lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, realtime user context, and user interfaces.
+ - [mcp-ui](https://github.com/idosal/mcp-ui) - mcp-ui brings interactive web components to the Model Context Protocol (MCP). Deliver rich, dynamic UI resources directly from your MCP server to be rendered by the client. Take AI interaction to the next level!
 
 ## Gateway
 
