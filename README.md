@@ -29,6 +29,7 @@ Awesome Open Source AIOps Tools.
  - [MCP](https://modelcontextprotocol.io/introduction) - MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
  - [AG-UI](https://github.com/ag-ui-protocol/ag-ui) - AG-UI is a lightweight, event-based protocol that standardizes how AI agents connect to user-facing applications. Built for simplicity and flexibility, it enables seamless integration between AI agents, realtime user context, and user interfaces.
  - [mcp-ui](https://github.com/idosal/mcp-ui) - mcp-ui brings interactive web components to the Model Context Protocol (MCP). Deliver rich, dynamic UI resources directly from your MCP server to be rendered by the client. Take AI interaction to the next level!
+ - [llms.txt](https://llmstxt.org/) - A proposal to standardise on using an /llms.txt file to provide information to help LLMs use a website at inference time.
 
 ## Gateway
 
