@@ -12,6 +12,7 @@ Awesome Open Source AIOps Tools.
 - [SRE Agent](#sre-agent)
 - [CI/CD](#cicd)
 - [Agent](#agent)
+- [UI](#ui)
 - [Others](#others)
 
 
@@ -66,6 +67,10 @@ Awesome Open Source AIOps Tools.
 - [Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents) - The Atomic Agents framework is designed around the concept of atomicity to be an extremely lightweight and modular framework for building Agentic AI pipelines and applications without sacrificing developer experience and maintainability. 
 - [Griptape](https://github.com/griptape-ai/griptape) - Griptape is a Python framework designed to simplify the development of generative AI (genAI) applications. 
 
+
+## UI
+
+- [CopilotKit](https://github.com/copilotkit/copilotkit) - The Agentic Application Framework: Open source framework and hosted service for AI-assisted applications.
 
 
 ## Others
